@@ -1,12 +1,11 @@
 #%%
 import numpy as np
 import pandas as pd
-#%matplotlib inline
 import matplotlib.pyplot as plt
 import seaborn as sns
 from nltk.stem.wordnet import WordNetLemmatizer
 import nltk
-import sklearn 
+#import sklearn 
 import string
 import warnings
 from sklearn.metrics import accuracy_score
